@@ -3,9 +3,6 @@ package DAO;
 import java.sql.*;
 
 import Entidades.*;
-import DAO.GeneralDAO.*;
-
-import java.io.IOException;
 
 public class UsuarioDAO {
 
